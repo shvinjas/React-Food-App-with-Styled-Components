@@ -77,10 +77,6 @@ Start the development server:
 npm start
 Open your browser and visit http://localhost:3000.
 
-Project Structure
 
-/src: Contains the source code files.
-/components: React components used in the project.
-/images: Store images used in the application.
-App.js: Main application component.
-SearchResult.js: Component for displaying search results.
+
+
